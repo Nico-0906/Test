@@ -14,7 +14,7 @@
 int main(void) {
 	system("color 02");
 	int a;
-	printf("escribi un numero: ");
+	printf("escribe el numero: ");
 	scanf("%d", &a);
 	printf("el numero es: %d\n",a);
 	system("pause");
